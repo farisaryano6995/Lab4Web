@@ -72,7 +72,7 @@ div {
 ```
 
 * model header dan nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout1.png)
+![internal](img/Layout1.png)
 
 ## 3. Membuat Layout Lanjutan
 * selanjutnya membuat nav box dengan CSS Lanjutan 
@@ -91,7 +91,7 @@ body {
 
 ```
 * model nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout2.JPG)
+![internal](img/Layout2.JPG)
 ## 4. Membuat Layout Lanjutan
 * selanjutnya membuat nav dan hero wrapper Html Lanjutan 
 ```
@@ -138,7 +138,7 @@ nav a {
 }
 ```
 * model nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout3.JPG)
+![internal](img/Layout3.JPG)
 
 ## 5. Membuat Layout Lanjutan
 * selanjutnya membuat widget dan hero wrapper Html Lanjutan 
@@ -194,7 +194,7 @@ nav a {
 ``
 * model nav pemrograman web Maka hasilnya akan seperti berikut.
 ```
-![internal](img/layout4.JPG)
+![internal](img/Layout4.JPG)
 ## 6. Membuat Layout Lanjutan
 * selanjutnya membuat circle pada website contoh html 
 ```
@@ -257,7 +257,7 @@ nav a {
 }
 ```
 * model nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout5.JPG)
+![internal](img/Layout5.JPG)
 
 ## 7. Membuat Layout Lanjutan
 * selanjutnya membuat circle Html Lanjutan 
@@ -300,7 +300,7 @@ nav a {
 ```
 .
 * model nav pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout5.JPG)
+![internal](img/Layout6.JPG)
 ## 8. Membuat Layout Lanjutan
 * selanjutnya membuat feature heading Html Lanjutan 
 ```
@@ -318,7 +318,7 @@ nav a {
                     </article>
 ```
 * model divider pemrograman web Maka hasilnya akan seperti berikut.
-![internal](img/layout6.JPG)
+![internal](img/Layout7.JPG)
 
 ## 9. Hasil Layout
 * maka hasil nya sebagai berikut
@@ -407,4 +407,4 @@ nav a {
 </html>
 ```
 * hasil nya ini.
-![internal](img/layout_hasil.png)
+![internal](img/Layout8.png)
