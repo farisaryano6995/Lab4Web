@@ -29,7 +29,7 @@
 ```
 
 * Maka hasilnya akan seperti berikut.
-![struktur](img/box4.png)
+![struktur](img/Box4.png)
 *  Buat css. 
 ```
 div {
